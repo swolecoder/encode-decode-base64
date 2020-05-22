@@ -1,5 +1,5 @@
 {
-  "name": "encode-decode-base64",
+  "name": "encode-decode-js",
   "version": "1.0.0",
   "description": "encode decode base64",
   "main": "index.js",
