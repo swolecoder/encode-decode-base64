@@ -1,0 +1,16 @@
+{
+  "name": "encode-decode-base64",
+  "version": "1.0.0",
+  "description": "encode decode base64",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Ashish Ramjan"
+  },
+  "keywords": [],
+  "author": "Ashish Ranjan",
+  "license": "ISC"
+}
